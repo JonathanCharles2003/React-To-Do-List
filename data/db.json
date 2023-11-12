@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "eggs"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "bacon"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "cheese"
+    }
+  ]
+}
